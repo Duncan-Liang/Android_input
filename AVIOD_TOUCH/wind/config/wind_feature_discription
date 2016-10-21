@@ -1,0 +1,25 @@
+WIND_ASUS_SIGNAL=yes #yes表示华硕信号格显示
+WIND_DEF_ASUS_SETTINGS=yes #表示使用AsusSettings
+WIND_DEF_ASUS_BLUELIGHT=yes #表示使用Asus bluelight.
+WIND_DEF_FLIPFONT_CN = yes #表示加入FlipFont cn的apk
+WIND_ASUS_FOTA=yes  #yes表示打开华硕FOTA升级
+WIND_DEF_STORAGE_DETAIL=yes #表示使用Asus定制，设置--存储显示flash容量和系统保留空间
+WIND_DEF_RUNTIME_TEST_APP=yes #表示支持老化测试
+WIND_DEF_SMARTLAUNCHER=yes #表示使用Asus EasyLauncher
+WIND_DEF_ASUS_CAMERA = yes #表示使用Asus Camera定制
+WIND_SHUT_OFF_ANIMATION = yes #表示关闭关机动画
+WIND_DEF_ASUS_SAVELOG= yes #表示loguploader宏
+WIND_DEF_AUDIOWIZARD=yes #表示使用Asus Audio Wizard定制
+WIND_DEF_ASUS_ANALYTICS=yes #表示使用Asus Analytics定制
+WIND_DEF_FLIPFONT_WW = yes #表示加入FlipFont cw的apk
+WIND_DEF_ASUS_NOT_DISTURB=yes       #表示使用Asus 免打扰定制
+WIND_GESTURES_SUPPORTED=yes         #表示使用息屏手势
+WIND_ASUS_BACKUP=yes                #表示使用Asus 备份功能
+WIND_DEF_ASUS_HARDWARE=yes          #表示使用Asus hardware功能
+WIND_DEF_ASUS_FLIPCOVER=yes         #表示使用Asus 皮套
+WIND_DEF_ASUS_POWERSAVER=yes        #表示使用Asus 省电模式
+WIND_DEF_WIFI_CHANNEL_EU           #定义WIFI channel 为1-13
+WIND_DEF_TOUCH_PANEL_CLOSE=yes  #yes表示关闭touch panel触摸时的震动
+WIND_DEF_ASUS_GSENSOR=yes           #表示使用Asus g-sensor的测试要求标准
+WIND_DEF_ASUS_USB_DIALOG=yes        #表示开启E281的usb dialog需求
+WIND_DEF_ASUS_AVIOD_TOUCH=yes		#表示开启E281的IncallUI近距离传感延迟灭屏禁止触摸
